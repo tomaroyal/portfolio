@@ -11,6 +11,6 @@
 	<div class="flex flex-col">
 		<a href="https://www.linkedin.com/in/tomaroyal" target="_blank">LinkedIn</a>
 		<a href="https://github.com/tomaroyal" target="_blank">Github</a>
-		<a href="howdyroyall@gmail.com" target="_blank">Gmail</a>
+		<a href="mailto:howdyroyall@gmail.com" target="_blank">Gmail</a>
 	</div>
 </div>
