@@ -55,9 +55,9 @@
 	<ProjectCard />
 	<ProjectCard />
 </div>
-<div class="aspect-w-16 aspect-h-9">
+<div class="aspect-w-1 aspect-h-1 md:aspect-w-16 md:aspect-h-9 my-4 md:my-0">
 	<iframe
-		src="https://www.youtube.com/embed/r9jwGansp1E"
+		src="https://www.youtube.com/embed/QH2RFrOznvw"
 		title="anime video"
 		frameborder="0"
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

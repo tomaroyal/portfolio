@@ -5,9 +5,9 @@
 
 </script>
 
-<main class="flex flex-col h-screen divide-y">
+<main class="flex flex-col h-screen divide-y p-8">
 	<Navbar />
-	<div class="p-8 mb-auto">
+	<div class="py-8 mb-auto">
 		<slot />
 	</div>
 	<Footer />
