@@ -55,3 +55,12 @@
 	<ProjectCard />
 	<ProjectCard />
 </div>
+<div class="aspect-w-16 aspect-h-9">
+	<iframe
+		src="https://www.youtube.com/embed/r9jwGansp1E"
+		title="anime video"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+		allowfullscreen
+	/>
+</div>
