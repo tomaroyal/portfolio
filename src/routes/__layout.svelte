@@ -5,12 +5,12 @@
 
 </script>
 
-<main>
+<main class="flex flex-col h-screen divide-y">
 	<Navbar />
-	<div class="p-8">
+	<div class="p-8 mb-auto">
 		<slot />
-		<Footer />
 	</div>
+	<Footer />
 </main>
 
 <style lang="postcss">
