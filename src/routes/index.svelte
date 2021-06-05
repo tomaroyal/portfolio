@@ -3,6 +3,43 @@
 
 </script>
 
+<svelte:head>
+	<!-- Primary Meta Tags -->
+	<title>Royal Tomar | Portfolio</title>
+	<meta name="title" content="Royal Tomar | Portfolio" />
+	<meta
+		name="description"
+		content="I'm a UX designer and creator. You've found my personal space on the internet."
+	/>
+	<meta name="keywords" content="Svelte, SvelteKit, Svelte-kit, Tailwind, HTML, CSS, JavaScript" />
+	<meta name="author" content="@dansvel" />
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://metatags.io/" />
+	<meta property="og:title" content="Royal Tomar | Portfolio" />
+	<meta
+		property="og:description"
+		content="I'm a UX designer and creator. You've found my personal space on the internet."
+	/>
+	<!-- <meta
+    property="og:image"
+    content="https://sveltekit-tailwind2.netlify.app/screenshot.png"
+  /> -->
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content="https://metatags.io/" />
+	<meta property="twitter:title" content="Royal Tomar | Portfolio" />
+	<meta
+		property="twitter:description"
+		content="I'm a UX designer and creator. You've found my personal space on the internet."
+	/>
+	<!-- <meta
+    property="twitter:image"
+    content="https://sveltekit-tailwind2.netlify.app/screenshot.png"
+  /> -->
+</svelte:head>
+
 <h1 class="text-5xl font-extrabold mb-4">Hey, I'm Royal Tomar</h1>
 <p>
 	I'm a UX designer, creator. You've found my personal space on the Internet. Here are a few
